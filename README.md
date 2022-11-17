@@ -11,7 +11,7 @@ conda activate canids
 conda install python=3.10 pandas scikit-learn jupyter
 ```
 
-(Updated on Nov. 17, 2022) Please install additional packages.
+(Updated on Nov. 17, 2022) Please install one additional package to plot some figures.
 ```
 conda install matplotlib 
 ```
