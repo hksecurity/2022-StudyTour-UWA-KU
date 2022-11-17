@@ -1,3 +1,8 @@
+# datasets
+0_Preliminary/
+1_Final/
+
+### https://github.com/github/gitignore/blob/main/Python.gitignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
