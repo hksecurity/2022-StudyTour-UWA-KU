@@ -27,5 +27,7 @@ CAR HACKING: ATTACK & DEFENSE CHALLENGE 2020 DATASET on IEEE DataPort (https://d
 
 Folders `0_Preliminary` and `1_Final` are supposed to be located at the root of this repository.
 
+![img.png](resource/screenshot_dataset.png)
+
 ### 4. Run jupyter notebook
 `jupyter notebook`
