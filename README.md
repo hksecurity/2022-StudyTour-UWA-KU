@@ -1,5 +1,7 @@
 # 2022-StudyTour-UWA-KU
 
+[PPT slide](slide.pdf)
+
 ## How to proceed with the repository
 
 
@@ -8,7 +10,7 @@
 ```bash
 conda create -n canids
 conda activate canids
-conda install python=3.10 pandas scikit-learn jupyter
+conda install python pandas scikit-learn jupyter
 ```
 
 (Updated on Nov. 17, 2022) Please install one additional package to plot some figures.
